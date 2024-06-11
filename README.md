@@ -11,11 +11,15 @@ Este é um projeto de quiz que utiliza WebSocket e Express para fornecer um jogo
 
 
 git clone https://github.com/MariaCiciliti/p2.git
+
 cd p2
 
 ### Instale as dependecias 
+
 npm install express ws
+
 npm install
+
 ## Inicia o servidor na porta 3000
 npm start
 
