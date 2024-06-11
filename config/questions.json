@@ -1,0 +1,30 @@
+{
+    "questions": [
+      {
+        "question": "Qual tag HTML é usada para definir uma lista não ordenada?",
+        "choices": ["ul", "ol", "li", "dl"],
+        "answer": "ul"
+      },
+      {
+        "question": "Qual tag HTML é usada para criar um link?",
+        "choices": ["a", "link", "href", "url"],
+        "answer": "a"
+      },
+      {
+        "question": "Qual é a versão mais recente do HTML?",
+        "choices": ["HTML4", "HTML5", "XHTML", "XML"],
+        "answer": "HTML5"
+      },
+      {
+        "question": "Qual é a tag HTML para criar uma linha horizontal?",
+        "choices": ["hr", "line", "break", "br"],
+        "answer": "hr"
+      },
+      {
+        "question": "Qual é a tag HTML para criar uma tabela?",
+        "choices": ["table", "tr", "td", "th"],
+        "answer": "table"
+      }
+    ]
+  }
+  
